@@ -1,0 +1,151 @@
+<!doctype html>
+
+<html>
+
+
+
+<head>
+
+<title>
+ Tools
+</title>
+</head>
+
+
+
+<style>
+ h1 {
+
+color:#EF0A09;
+text-align:center;
+margin-bottom:60px;
+margin-top:-40px;
+font-size:48px;
+}
+ h2 {
+
+color:red;
+text-align:center;
+text-decoration:none;
+margin-top:-50px;
+width:100px;
+}
+ h3 {
+
+color:#EF0A09;
+text-align:center;
+font-size:32px;
+}
+ p {
+
+font-size:12px;
+color:black;
+padding-right:8px;
+padding-top:6px;
+}
+a:link {
+    color: red;
+text-decoration: none;
+}
+a:visited {
+    color: red;
+text-decoration: none;
+}
+a:hover {
+    color: maroon;
+text-decoration: none;
+}
+a:active {
+     color: red;
+text-decoration: none;
+}
+.buttonA {
+    padding: 12.5px 75px;
+    width: 750px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 1% 1%;
+    cursor: pointer;
+}
+.buttonB {
+    padding: 12.5px 75px;
+    width: 750px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    margin: 1% 1%;
+    cursor: pointer;
+}
+.buttonC {
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button1 {
+    background-color: #f9f9f9; 
+    color: black; 
+    border: 3px solid #bbbbbb;
+}
+.button1:hover {
+    background-color: #EF0A09;
+    color: white;
+}
+.button2 {
+    background-color: #f9f9f9; 
+    color: black; 
+    border: 2px solid #bbbbbb;
+}
+.button2:hover {
+    background-color: #EF0A09;
+    color: white;
+}
+</style>
+
+<img src="" img align="left;">
+
+<h1>TOOLS</h1>
+
+<div align="center">
+<h2><a href="" class="buttonC button2">Home</a></h2>
+</div>
+
+<h3>
+<a href=" class="buttonA button1">SMART</a>
+<a href=""target="_blank" class="buttonA button1">Archer</a>
+<a href="" class="buttonA button1">BitSight</a>
+<a href=""target="_blank" class="buttonA button1">Sharepoint</a>
+<a href="https://www.whois.com/whois/"target="_blank" class="buttonA button1">Whois</a>
+<a href="https://beta.companieshouse.gov.uk/"target="_blank" class="buttonA button1">Companies House</a>
+<a href="https://www.checktls.com/live/index.html"target="_blank" class="buttonA button1">Check TLS</a>
+<a href=""target="_blank" class="buttonA button1">URL Shortener</a>
+
+<a href="http://passwordsgenerator.net/"target="_blank" class="buttonB button1">Strong Random P/W Generator</a>
+<a href="https://sitereview.bluecoat.com/sitereview.jsp#/?search="target="_blank" class="buttonB button1">WebPulse Site Review Request </a>
+<a href="https://www.gartner.com/it-glossary/"target="_blank" class="buttonB button1">Gartner IT Glossary</a>
+<a href="https://informationshield.com/free-security-policy-tools/us-data-privacy-laws/"target="_blank" class="buttonB button1">US Data Privacy Laws</a>
+<a href="https://www.pcisecuritystandards.org/document_library?agreements=pcidss&association=pcidss"target="_blank" class="buttonB button1">PCI Standards and Guidelines</a>
+<a href="http://www.cert.org/"target="_blank" class="buttonB button1">CERT</a>
+<a href="https://urlscan.io/"target="_blank" class="buttonB button1">urlscan.io</a>
+<a href="https://securityheaders.io/"target="_blank" class="buttonB button1">securityheaders.io</a>
+</h3>
+
+<div style="position: absolute; top: 0; right: 0; width: 200px; text-align:right;">
+
+	<div style="margin-top:-20px; padding-right:20px;">
+<p id="date"></p>
+<script>
+n =  new Date();
+y = n.getFullYear();
+m = n.getMonth() + 1;
+d = n.getDate();
+document.getElementById("date").innerHTML = d + " / " + m + " / " + y;
+</script>
+	</div>
+</div>
+
+ 
+</html>
