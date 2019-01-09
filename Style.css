@@ -3,7 +3,7 @@
 */
 
  
-<style>
+
  h1 {
 color:#EF0A09;
 text-align:center;
@@ -50,7 +50,7 @@ text-decoration: none;
     margin: 1% 1%;
     cursor: pointer;
 }
-}
+
 .button1 {
     background-color: #f9f9f9; 
     color: black; 
