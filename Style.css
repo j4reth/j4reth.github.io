@@ -48,22 +48,8 @@ text-decoration: none;
     margin: 1% 1%;
     cursor: pointer;
 }
-.buttonB {
-    padding: 12.5px 75px;
-    width: 750px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 30px;
-    margin: 1% 1%;
-    cursor: pointer;
-}
-.buttonC {
-    width: 100px;
-    text-align: center;
-    text-decoration: none;
-    cursor: pointer;
-}
+
+
 .button1 {
     background-color: #f9f9f9; 
     color: black; 
@@ -73,13 +59,5 @@ text-decoration: none;
     background-color: #EF0A09;
     color: white;
 }
-.button2 {
-    background-color: #f9f9f9; 
-    color: black; 
-    border: 2px solid #bbbbbb;
-}
-.button2:hover {
-    background-color: #EF0A09;
-    color: white;
-}
+
 
