@@ -14,7 +14,7 @@ font-family:'calibri';
  h3 {
 color:#EF0A09;
 text-align:center;
-font-size:32px;
+font-size:18px;
 font-family:'calibri';
 }
  p {
@@ -41,12 +41,12 @@ a:active {
 text-decoration: none;
 }
 .buttonA {
-    padding: 12.5px 75px;
-    width: 750px;
+    padding: 12.5px 35px;
+    width: 500px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 30px;
+    font-size: 18px;
     margin: 1% 1%;
     cursor: pointer;
 }
