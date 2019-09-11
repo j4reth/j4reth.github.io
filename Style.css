@@ -59,12 +59,6 @@ text-decoration: none;
     border: 3px solid #bbbbbb;
 
 }
-span {
-  visibility: hidden;
-}
- span:hover{
-  visibility: visible;
- }
    
 .button1:hover {
     background-color: #EF0A09;
