@@ -57,10 +57,11 @@ text-decoration: none;
     background-color: #f9f9f9; 
     color: black; 
     border: 3px solid #bbbbbb;
+span: hidden;
 }
 .button1:hover {
     background-color: #EF0A09;
     color: white;
-}
+span: visible;
 
 
